@@ -2,7 +2,7 @@
 // number.prototype.z = 10;
 
 function User (name,age) {
-	this.name= name;
+	this.name = name;
 	this.age = age;
 	this.foo = function(){console.log('Foo');}
 }
